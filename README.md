@@ -1,3 +1,3 @@
 # playwright_assessment
 
-testing data
+testing data for practice purpose.
